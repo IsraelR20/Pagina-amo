@@ -1,0 +1,47 @@
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencias de Node.js (si decides agregar en el futuro)
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Archivos de Python (para el servidor local)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
+
+# Archivos de backup
+*.bak
+*.backup
