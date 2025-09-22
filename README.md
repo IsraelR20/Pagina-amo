@@ -9,12 +9,23 @@ Esta página web presenta una animación romántica con flores flotando de fondo
 ## Características
 
 - ✨ Animación fluida de flores flotando
-- 📱 Diseño responsive para móviles, tablets y escritorio
+- � Corazón animado con foto personalizable en la parte superior
+- �📱 Diseño responsive para móviles, tablets y escritorio
 - 🎨 Gradiente de colores dinámico de fondo
 - 💫 Efectos interactivos al hacer clic/tocar
 - ⚡ Optimizado para dispositivos de bajo rendimiento
 - 🌸 6 tipos diferentes de flores emoji
 - 💖 Mensaje de amor personalizado
+
+## 🖼️ Cómo agregar tu foto al corazón
+
+1. Coloca tu foto en la carpeta del proyecto
+2. Renómbrala como `foto.jpg` o actualiza el nombre en `index.html`:
+   ```html
+   <img src="tu-foto.jpg" alt="Nuestra foto" class="heart-photo">
+   ```
+3. La foto se recortará automáticamente en forma circular dentro del corazón
+4. El corazón tiene una animación de latido sutil y se adapta al tamaño de pantalla
 
 ## Tecnologías utilizadas
 
